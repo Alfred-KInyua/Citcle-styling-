@@ -42,6 +42,11 @@ body {
           transform: rotate(-20deg);
 }
 
+.container.show-nav .circle {
+  -webkit-transform: rotate(-70deg);
+          transform: rotate(-70deg);
+}
+
 .circle-container {
   position: fixed;
   top: -100px;
